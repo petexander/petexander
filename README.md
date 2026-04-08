@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @petexander
-- 👀 I’m interested in Data Analytics and Business Intelligence
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Kaggle projects
+- 👀 I’m interested in Analytics Engineering and Business Intelligence
+- 🌱 I’m currently learning Airflow
 - 📫 How to reach me: petershatwell@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I run @cardhorizons on Instagram
 
 <!---
